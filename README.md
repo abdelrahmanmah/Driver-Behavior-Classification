@@ -1,6 +1,3 @@
-# Driver-Behavior-Classification
-A deep learning project for classifying driver behaviors using CNN, VGG16-like, and ResNet34-inspired models. Built during Aitronix training using a Kaggle dataset and implemented with TensorFlow/Keras. Includes full preprocessing, training pipeline, evaluation metrics, and model comparison.
-
 # 🚗 Driver Behavior Detection using CNN and Pre-trained Models
 
 ## 📝 Introduction
@@ -164,3 +161,5 @@ For each model:
 A bar chart compares the accuracies of the three models. A summary table lists the final accuracies.
 
 This comprehensive evaluation helps identify the best-performing model for the task.</content>
+
+[View the original Kaggle notebook](https://www.kaggle.com/code/abdelrahmanmahmoud22/driver-behavior-detection-cnn)
